@@ -12,12 +12,16 @@ Tech support is is the process where third parties company provide support for t
 ### Services Provided By Toll Free Help UK
 
 <ul>
-<li>[avast contact number](https://tollfree-help.co.uk/avast-phone-number/)</li>
-<li>[McAfee contact number](https://tollfree-help.co.uk/mcafee-contact-number/)</li>
-<li>[norton contact number](https://tollfree-help.co.uk/norton-customer-service-number/)</li>
+<li><a href="https://tollfree-help.co.uk/avast-phone-number/">avast contact number</a></li>
+<li><a href="https://tollfree-help.co.uk/mcafee-contact-number/">McAfee contact number</a></li>
+<li><a href="https://tollfree-help.co.uk/norton-customer-service-number/">norton contact number</li>
 <li>apple customer service uk</li>
 <li>itunes contact number</li>
 </ul>
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### How To Get Support
+
+It is really easy to get tech support, just contact the number provided and explain the personwhat problems that you are facing, they may ask you for remote access of your pc, and from that remote access they will solve your problems, some of the services provided are premium and you may have to pay small amout of money for solving your problem, these premium services are just for any extra software like antivirus of any other software that they are installing on yolur device.
+
+### 
+
