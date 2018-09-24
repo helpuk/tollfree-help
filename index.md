@@ -12,9 +12,9 @@ Tech support is is the process where third parties company provide support for t
 ### Services Provided By Toll Free Help UK
 
 <ul>
-<li><a href="https://tollfree-help.co.uk/avast-phone-number/">avast contact number</a></li>
-<li><a href="https://tollfree-help.co.uk/mcafee-contact-number/">McAfee contact number</a></li>
-<li><a href="https://tollfree-help.co.uk/norton-customer-service-number/">norton contact number</li>
+<li>avast contact number</li>
+<li>McAfee contact number</li>
+<li><a href="https://tollfree-help.co.uk/norton-customer-service-number/">norton contact number</a></li>
 <li>apple customer service uk</li>
 <li>itunes contact number</li>
 </ul>
