@@ -21,7 +21,8 @@ Tech support is is the process where third parties company provide support for t
 
 ### How To Get Support
 
-It is really easy to get tech support, just contact the number provided and explain the personwhat problems that you are facing, they may ask you for remote access of your pc, and from that remote access they will solve your problems, some of the services provided are premium and you may have to pay small amout of money for solving your problem, these premium services are just for any extra software like antivirus of any other software that they are installing on yolur device.
+It is really easy to get tech support, just contact the number provided and explain the person what problems that you are facing, they may ask you for remote access of your pc, and from that remote access they will solve your problems, some of the services provided are premium and you may have to pay small amout of money for solving your problem, these premium services are just for any extra software like antivirus of any other software that they are installing on your device.
 
-### 
+### Things To Keep In Mind Before Getting a Tech Support 
 
+Just be careful you are calling a real tech support company as some of the face companies will try you to sell their product, just dont get tricked by them, and dont give remote access of your device to any unknown person,  they might access yiur private data and missuse it.  
